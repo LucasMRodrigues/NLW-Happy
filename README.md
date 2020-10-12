@@ -30,14 +30,14 @@
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
 
-A proposta do projeto é construir uma aplicação que possibilite conectar pessoas a orfanatos próximos à região onde elas vivem, facilitando o acesso a esses instituos e aumentando a frequência com que eles recebem  assistência.
-É possivel encontrar alguns orfanatos próximos ao seu endereço, visualizar o perfil, além de efetuar novos cadastros.
+A proposta do projeto é construir uma aplicação que possibilite conectar pessoas a orfanatos próximos à região onde elas vivem, facilitando o acesso a esses institutos e aumentando a frequência com que eles recebem  assistência.
+É possivel encontrar orfanatos próximos ao seu endereço, visualizar informações deles e efetuar novos cadastros.
 
 --- 
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto está em desenvolvimento utilizando as seguintes tecnologias:
+O projeto utiliza as seguintes tecnologias:
 
 ### Front-End Web
 
@@ -45,6 +45,10 @@ O projeto está em desenvolvimento utilizando as seguintes tecnologias:
   - [Typescript](https://www.typescriptlang.org/)
   - [Leaflet](https://react-leaflet.js.org/)
   - [Mapbox](https://www.mapbox.com/)
+
+### Front-End Mobile
+
+  > Em Desenvolvimento
 
 ### Back-End
 
