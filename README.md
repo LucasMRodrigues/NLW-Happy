@@ -62,10 +62,10 @@ O projeto está em desenvolvimento utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/Ivillysg/Next-Level-Week-3.0.git
+git clone https://github.com/LucasMRodrigues/NLW-Happy.git
 
 # Entrar no diretório
-cd Next-Level-Week-3.0
+cd NLW-Happy
 
 # Baixar as dependências
 yarn ou npm i
