@@ -37,7 +37,14 @@ A proposta do projeto é construir uma aplicação que possibilite conectar pess
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto utiliza as seguintes tecnologias:
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+### Ferramentas de Desenvolvimento
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Postman](https://www.postman.com/)
+- [Insomnia](https://insomnia.rest/)
+- [Fork](https://git-fork.com/)
 
 ### Front-End Web
 
@@ -48,18 +55,17 @@ O projeto utiliza as seguintes tecnologias:
 
 ### Front-End Mobile
 
-  > Em Desenvolvimento
+> Em Desenvolvimento
 
 ### Back-End
 
-  > Em Desenvolvimento
-
-  <!-- - [NodeJS](https://nodejs.org/en/)
+  - [NodeJS](https://nodejs.org/en/)
   - [Express](https://expressjs.com/pt-br/)
   - [Typescript](https://classic.yarnpkg.com/)
-  - [KnexJS](http://knexjs.org/)
-  - [SQLite](https://www.sqlite.org/index.html) -->
-  
+  - [SQLite](https://www.sqlite.org/index.html)
+  - [Multer](https://www.npmjs.com/package/multer)
+  - [TypeORM](https://typeorm.io/#/)
+  - [Yup](https://github.com/jquense/yup)
 --- 
 
 ## ⌨ Como executar o projeto
@@ -77,7 +83,7 @@ yarn ou npm i
 # Projeto web
 cd web
 
-# Para executar o web
+# Para executar o client web
 yarn start
 ou
 npm run start
