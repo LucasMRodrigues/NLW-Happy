@@ -52,6 +52,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   - [Typescript](https://www.typescriptlang.org/)
   - [Leaflet](https://react-leaflet.js.org/)
   - [Mapbox](https://www.mapbox.com/)
+  - [Axios](https://github.com/axios/axios)
 
 ### Front-End Mobile
 

@@ -3,6 +3,7 @@ import Routes from './routes';
 
 // styles
 import './styles/global.css';
+import 'leaflet/dist/leaflet.css'
 
 
 function App() {
