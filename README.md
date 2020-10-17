@@ -45,6 +45,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Postman](https://www.postman.com/)
 - [Insomnia](https://insomnia.rest/)
 - [Fork](https://git-fork.com/)
+- [Beekeper Studio](https://www.beekeeperstudio.io/)
 
 ### Front-End Web
 
@@ -52,11 +53,13 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   - [Typescript](https://www.typescriptlang.org/)
   - [Leaflet](https://react-leaflet.js.org/)
   - [Mapbox](https://www.mapbox.com/)
-  - [Axios](https://github.com/axios/axios)
+  - [Axios](https://www.mapbox.com/)
 
 ### Front-End Mobile
 
-> Em Desenvolvimento
+  - [React Native](https://reactnative.dev/)
+  - [Expo](https://expo.io/)
+  - [Axios](https://www.mapbox.com/)
 
 ### Back-End
 
@@ -89,8 +92,16 @@ yarn start
 ou
 npm run start
 
+# Projeto mobile
+cd mobile
+
+# Para executar o client mobile
+yarn start
+ou
+npm run start
+
 # Projeto server
-cd server
+cd backend
 
 # Para executar o servidor
 yarn dev
@@ -98,6 +109,8 @@ ou
 npm run dev
 
 
+IMPORTANTE: No arquivo ImagesView.ts do backend, na propriedade 'url', é necessário substituir o valor ali definido pelo IP da sua máquina. Somente asim as imagens serão renderizadas da forma correta na interface mobile.
+
 ```
 
-Feito isso, abra o seu navegador e acesse `http://localhost:3000/`
+Feito isso, abra o seu navegador em `http://localhost:3000/` (para acessar a interface web) e `http://localhost:19002/` e escaneie o QR Code com a câmera do seu celular (para acessar a interface mobile). 
